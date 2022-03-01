@@ -1,0 +1,242 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Hewer's reply to the petition of the Tanger-inhabitants</title>
+            <author>Hewer, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03643</idno>
+            <idno type="STC">Wing H1629A</idno>
+            <idno type="STC">ESTC R177966</idno>
+            <idno type="EEBO-CITATION">51617620</idno>
+            <idno type="OCLC">ocm 51617620</idno>
+            <idno type="VID">175257</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03643)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175257)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2725:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Hewer's reply to the petition of the Tanger-inhabitants</title>
+                  <author>Hewer, William.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.l., 1695]</publisher>
+                  <pubPlace>[S.n. :</pubPlace>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication date from Wing.</note>
+                  <note>Imperfect: creased with some loss of text.</note>
+                  <note>Reproduction of the original in the Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Embezzlement --  England --  Early works to 1800.</term>
+               <term>Tangier (Morocco) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175257:1" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:175257:2" rendition="simple:additions"/>
+            <head>
+               <hi>Mr. HEWER's Reply TO THE Petition</hi> of the <hi>Tanger-Inhabitants.</hi>
+            </head>
+            <p>
+               <label>
+                  <hi>Article</hi> I.</label> 
+               <hi>THat in the Years</hi> 85 <hi>and</hi> 86 <hi>there were granted me (as Treaſurer for</hi> Tanger) <hi>two Privy Seals of 50000 l. each, for paying the Arrears due to the Petitioners and Garriſon there, at the time of its demoliſhing.</hi>
+            </p>
+            <p>
+               <label>Anſwer.</label> 'Tis acknowledg'd.</p>
+            <p>
+               <label>
+                  <hi>Art.</hi> II.</label> 
+               <hi>That I have receiv'd upon theſe Privy Seals</hi> 90000 l.</p>
+            <p>
+               <label>Anſw.</label> The Total receiv'd thereon is 72200 l. and no more; there reſting unpaid of the ſame at this day 27800 l.</p>
+            <p>
+               <label>PROOF,</label> A <hi>Conſtat</hi> from the <hi>Exchequer,</hi> under the Hand of Sir <hi>Robert Howard.</hi>
+            </p>
+            <p>
+               <label>
+                  <hi>Art.</hi> III.</label> 
+               <hi>That I did for a long time clandeſtinely keep from them, the knowledge both of the ſaid Seals and Mony; making to my ſelf in the mean time conſiderable profit of the ſame.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> The little Truth, or poſſibility of any, in this Suggeſtion, ap<g ref="char:EOLhyphen"/>pears;
+<list>
+                  <item>1. From the diverſity of the Publick Offices (acceſſible to all En<g ref="char:EOLhyphen"/>quirers) through which every Privy Seal, as well as Exchequer Payment, neceſſarily paſſes; to the rendring the concealment of either wholly im<g ref="char:EOLhyphen"/>practicable.
+<list>
+                        <item>
+                           <label>PROOF,</label> The known <hi>Number</hi> (no leſs then 6) and <hi>Methods</hi> of thoſe <hi>Offices.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>2. From their having had in conſtant Pay, a <hi>Meſſenger</hi> and <hi>Solicitors</hi> of their own appointment and Number, daily attending between the <hi>Treaſury,</hi> the <hi>Exchequer, Themſelves,</hi> and <hi>Me;</hi> for the looking after and advertiſing them of every day's proceeding, relating to this Affair.
+<list>
+                        <item>
+                           <label>PROOF,</label> Their own Hands.</item>
+                     </list>
+                  </item>
+                  <item>3. From a <hi>Compariſon</hi> eaſie to be made, of the <hi>Dates</hi> of my Receipts for Monies out of the <hi>Exchequer,</hi> and thoſe of theirs upon their Payments from <hi>Me.</hi> Which will be found ſeldom diſtant 3 days, never 7; but on the contrary, the advancements of Mony on my ſide for the moſt part to pre<g ref="char:EOLhyphen"/>cede by much greater diſtances, the actual Payments from the Exchequer to me.
+<list>
+                        <item>
+                           <label>PROOF,</label> Sir <hi>Robert Howard</hi>'s foremention'd Certificate; their own Original <hi>Acquitances;</hi> and my frequent <hi>Reports</hi> of both to the Lords of the Treaſury.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <label>
+                  <hi>Art.</hi> IV.</label> 
+               <hi>That I have (beſides my Salary from the King) taken from them upon every Payment,</hi> 12 d. <hi>poundage and</hi> 4 s. <hi>per</hi> l. <hi>Compoſition-Mony, amounting together to</hi> 25 per Cent. <hi>neceſſitating them to compound or ſell me their Arrears upon my own Terms.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <list>
+                  <item>1. That 12 <hi>d. per l.</hi> was by <hi>Their</hi> own joynt Order to <hi>Me</hi> in writing, ſtopt out of every of their Payments; to be diſpoſed of by a diſtri<g ref="char:EOLhyphen"/>bution
+<pb n="2" facs="tcp:175257:3"/> of their own, among ſeveral <hi>Perſons</hi> by themſelves named (of whom <hi>My Self</hi> but one) in expreſs Requital for a <hi>Service,</hi> nothing relating to my <hi>Treaſurerſhip,</hi> which they then own'd to have been done them in the col<g ref="char:EOLhyphen"/>lecting, examining, and adjuſting, the numerous, perplex'd, and clamorous <hi>Reckonings</hi> and <hi>Scores</hi> depending at <hi>Tanger,</hi> at the time of its demolition, between <hi>Them</hi> and the <hi>Military Officers</hi> there. A Work of ſeveral <hi>Months</hi> continu'd Labour; and what for the <hi>Moment</hi> of it, they owe the Recovery of their whole <hi>Eſtates</hi> there entirely to. And for the acknowledgement thus made for it; as it was on <hi>My</hi> part neither deſired nor expected, but came long after the <hi>Service</hi> was done; ſo was it done with ſo declared a Satis<g ref="char:EOLhyphen"/>faction on <hi>Theirs,</hi> as to have been afterwards by themſelves not only fre<g ref="char:EOLhyphen"/>quently confirm'd; but in a <hi>Repreſentation</hi> of their own, to the Lords of the <hi>Treaſury,</hi> touching the Method of <hi>My</hi> then Payments to them (even with this <hi>Defalcation</hi>) reckon'd for no <hi>Abatement.</hi>
+                     <list>
+                        <item>
+                           <label>PROOF,</label> The Originals of their ſaid <hi>Order, Repreſentation,</hi> and other Papers under their Hands.</item>
+                     </list>
+                  </item>
+                  <item>2. That as to the 4 <hi>s. per l.</hi> the pretended <hi>Compoſition-Money;</hi> I have it to obſerve, that for ſo much of their <hi>Debt,</hi> as the Lords of the <hi>Treaſury</hi> thought fit to enable me to diſcharge with <hi>Mony in ſpecie,</hi> the ſame was ſtrictly made good to them as I received it, without the leaſt <hi>Defalcation,</hi> other then that before mention'd. But when, upon the <hi>Lords</hi> becoming leſs ſatisfied herein, from ſome later Notices that toucht the general <hi>Merit</hi> of the <hi>Petitioners</hi> Claims, and their being thereby led to a <hi>Backwardneſs</hi> in further burthening the <hi>King</hi> with the Charge of <hi>Extraordinary Intereſt</hi> for raiſing Mony for them, the <hi>Petitioners</hi> found themſelves unable by any applications to obtain, for many <hi>Months</hi> together, any further Supplies; notwithſtanding a <hi>Propoſition</hi> they had long before made to their <hi>Lord<g ref="char:EOLhyphen"/>ſhips,</hi> of abating 6 <hi>per Cent. per Annum</hi> for two years, towards the eaſing his <hi>Majeſty</hi> in that Charge. They became reſtleſs <hi>Soliciters</hi> to me, for the imploying my <hi>Credit</hi> (with the aid of the <hi>Allowance</hi> they had ſo unſuc<g ref="char:EOLhyphen"/>ceſsfully offer'd to the <hi>Lords</hi>) for procuring them the advance of their Monys upon the <hi>Fonds</hi> I ſhould next be ſupply'd with towards it. Which from my regard to the Condition of the <hi>Petitioners,</hi> and at the inſtance of the late Noble Lord, my Honoured Friend the Lord <hi>Dartmouth,</hi> their known Patron, I was prevail'd with to do; and did it with ſuch effect, as by my own <hi>Credit</hi> alone, and <hi>Friends,</hi> to have raiſed them every <hi>Penny</hi> they have ſince receiv'd; and with it clear'd the whole of what either of <hi>Right,</hi> or by <hi>Promiſe</hi> in his Majeſties Name from that <hi>Noble Lord,</hi> they then had, or now have to pretend to, payable by my hand, from the <hi>King.</hi> And this upon terms of <hi>Abatement</hi> ſo much beneath what is here ſuggeſted of 4 <hi>s. per l.</hi> and yet more, that of 25 <hi>per Cent.</hi> as not to have ex<g ref="char:EOLhyphen"/>ceeded 2 <hi>s. per l.</hi> or 5 <hi>per Cent.</hi> Which is lower by 1 <hi>per Cent.</hi> than what themſelves (as before) had offer'd to the <hi>Lords</hi> for the ſame <hi>Service,</hi> with no acceptance; and was not only received as an <hi>Office</hi> moſt grateful to them at the time of its <hi>Tranſaction,</hi> but has ever ſince with like <hi>Thank<g ref="char:EOLhyphen"/>fulneſs</hi> been on all occaſions acknowledged to me by them for ſuch.
+<list>
+                        <item>
+                           <label>PROOFS,</label> Their Propoſition to the Lords, with other Evidences under their Hands, beſides an Appeal to their own Memories.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>Which</hi> being the Caſe of theſe two <hi>Defalcations</hi> (both of them by their own <hi>Deſires,</hi> and both for their own <hi>Service</hi> only) I do, as <hi>Treaſurer,</hi>
+               <pb n="3" facs="tcp:175257:3" rendition="simple:additions"/> utterly Diſclaim the having receiv'd from any of them the leaſt <hi>Conſidera<g ref="char:EOLhyphen"/>tion</hi> in the Execution of my <hi>Office,</hi> other than the bare <hi>Salary</hi> allow'd me for it by the <hi>King.</hi> But ſo much the contrary, as out of a ſingularity of <hi>Tenderneſs</hi> to the <hi>Petitioners,</hi> to have wholly remitted to them a Claim to <hi>Poundage,</hi> which Univerſal Practice through every Part of the <hi>Publick Service,</hi> both by <hi>Land</hi> and <hi>Sea,</hi> makes a Right of the <hi>Treaſurers,</hi> upon all <hi>Stopages</hi> for Debts made by Conſent for the Uſe of private <hi>Creditors.</hi>
+            </p>
+            <p>
+               <hi>And</hi> ſo much I value my ſelf upon the <hi>Sincerity</hi> of my Proceedings paſt, and the <hi>Truth</hi> of all my preſent <hi>Allegations</hi> herein, as to be ready to repay <hi>Ten-Fold,</hi> for every <hi>Penny</hi> I ſhall upon Proof be found to have directly or indirectly, by my ſelf or others, taken or receiv'd, from any one of the <hi>Petitioners,</hi> upon any Account whatever, beyond what I here declare.</p>
+            <p>
+               <label>
+                  <hi>Art.</hi> V.</label> 
+               <hi>That through my unjuſt Dealings, many of theſe Inhabitants have periſh'd, and ſome of them in Goal.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> How far this may in <hi>Fact</hi> be true, I know not. But this I know; that as this is the firſt time of my ever meeting with it; ſo is it not (be it true) to be charg'd upon the want of any thing within my Cognizance due to them from the King, or within my own power to have been otherwiſe helpful to them in. Witneſs the <hi>Many</hi> of them, whom I have ſuccour'd, both by my private Charity and other good Offices; And <hi>Some,</hi> who at this very day owe their <hi>Freedom</hi> to my only <hi>Forbearance</hi> of them, for Monies due and unſatisfied, which in their <hi>Diſtreſſes</hi> I have ſupply'd them with, upon <hi>None</hi> or at moſt upon <hi>Common Intereſt.</hi>
+            </p>
+            <p>
+               <label>PROOF,</label> Their own Memories, or (that failing) other Evidences ready to be ſhewn them under their Hands.</p>
+            <p>
+               <label>
+                  <hi>Art.</hi> VI.</label> 
+               <hi>That I have</hi> 20000 l. <hi>upon theſe Privy Seals at this Day Reſting in my Hands.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> So far is it from my being <hi>Debtor,</hi> either in this or any other Sum upon theſe <hi>Seals;</hi> that every <hi>Penny</hi> of <hi>Money</hi> I have pay'd to the People of this Place ſince <hi>Midſummer</hi> 1688. (which is now little ſhort of 7 <hi>Years</hi>) has been out of my own <hi>Purſe,</hi> to near 3000 l. more than ever I received thereon. And this, without a Farthing of it <hi>Reim<g ref="char:EOLhyphen"/>burſed,</hi> or any <hi>Fond</hi> yet ſupply'd me for ſecuring its <hi>Reimburſement,</hi> to this Day.</p>
+            <p>
+               <label>PROOF,</label> My ſeveral <hi>Reports</hi> of the State of my <hi>Receipts</hi> and <hi>Payments</hi> to the Lords of the Treaſury; with the general and particular <hi>State</hi> thereof accompanying this.</p>
+            <p>
+               <label>
+                  <hi>Art.</hi> VII.</label> 
+               <hi>They therefore Pray, That I may be obliged to Account for the ſaid Monies.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> An <hi>Account</hi> goes herewith of every <hi>Sum,</hi> great and ſmall, by me <hi>Receiv'd</hi> and <hi>Pay'd</hi> upon each of theſe <hi>Privy Seals;</hi> ſhewing the <hi>Value</hi> of each <hi>Sum,</hi> the diſtinct <hi>Day</hi> of each <hi>Receipt</hi> and <hi>Pay<g ref="char:EOLhyphen"/>ment,</hi> the particular <hi>Hand</hi> from or to which the ſame has been ſo <hi>Re<g ref="char:EOLhyphen"/>ceived</hi> or <hi>Pay'd,</hi> and on what <hi>Account.</hi>
+            </p>
+            <p>
+               <label>PROOF,</label> The Exchequer-<hi>Conſtat</hi> for my <hi>Receipts,</hi> and Original <hi>Acquitances</hi> for my <hi>Payments.</hi>
+            </p>
+            <pb n="4" facs="tcp:175257:4" rendition="simple:additions"/>
+            <p>
+               <label>
+                  <hi>Art.</hi> VIII.</label> 
+               <hi>And that I may Pay them their juſt Due.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> The Groſs of their <hi>Debt</hi> from his <hi>Majeſty,</hi> payable by <hi>Me,</hi> was cleared within the <hi>Year</hi> 1687, and the ſmall <hi>Remainders</hi> thereof, ſince. So as to have left no one <hi>Penny</hi> of this their <hi>Tanger-Debt</hi> (to which alone his <hi>Majeſty</hi> ſtood Intitled by any Promiſe of the Lord <hi>Dartmouth</hi>'s) unſatisfied to any one <hi>Inhabitant</hi> of them (within my Notice) for full 6 Years paſt.</p>
+            <p>
+               <label>PROOF,</label> The foremention'd <hi>Accounts</hi> and <hi>Reports,</hi> with their own Original <hi>Acquitances.</hi>
+            </p>
+            <p>
+               <hi>Which</hi> having ſaid, and therein valued my ſelf upon no <hi>Private Aſſerti<g ref="char:EOLhyphen"/>ons</hi> of my own, or even my <hi>Oath</hi> (which yet, if required, I am ready to give) for the Truth of any Particular; but upon <hi>Evidences,</hi> either wholly in<g ref="char:EOLhyphen"/>conteſtable, or ſuch as the <hi>Petitioners</hi> themſelves are moſt concern'd to ſupport the <hi>Credit</hi> of; I take Liberty only of ſubjoyning this one <hi>Appeal</hi> for the <hi>Whole,</hi> to the Right Honourable the <hi>Lords</hi> of the <hi>Treaſury,</hi> before whom this <hi>Matter</hi> has wholly lain. <hi>Whether</hi> within the Ten entire Years of its <hi>Negotiation,</hi> any one Word of <hi>Complaint,</hi> or <hi>Exception</hi> there<g ref="char:EOLhyphen"/>to, has ever come before their <hi>Lordſhips;</hi> from whoſe Hands, and un<g ref="char:EOLhyphen"/>der the Protection of the <hi>Noble Lord</hi> before Named then Living, they could not have wanted a quick <hi>Relief;</hi> without needing to have Expoſed, either <hi>Themſelves</hi> to the <hi>Conſequences</hi> of ſo many Years <hi>Want</hi> of it, if Due: Or <hi>Me</hi> (if otherwiſe) to the <hi>Diſappointments,</hi> which ſuch an <hi>Interval</hi> might have brought upon any <hi>Accomptant,</hi> leſs Fortunate in the Order and Preſervation of his <hi>Papers,</hi> than on this Occaſion it has been my good <hi>Hap</hi> to be.</p>
+            <p>
+               <hi>And</hi> from whence it comes at this <hi>Diſtance</hi> to be now firſt raiſed by them, will receive a ſatisfactory <hi>Opening,</hi> ſo ſoon as by this my <hi>Anſwer</hi> and its <hi>Proofs,</hi> I ſhall have acquitted my Self as I ought, to the <hi>Con<g ref="char:EOLhyphen"/>tents</hi> of their <hi>Petition.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
